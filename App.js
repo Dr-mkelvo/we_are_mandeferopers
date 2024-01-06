@@ -33,7 +33,7 @@ function App() {
                 name="Chris Mukunya"
                 phone="254 703614501"
                 email="chris@mandeferoper.com"
-                role="Cyber Security"
+                role="Cyber Security & Solutions Architect"
             />
         </div>
         </>
